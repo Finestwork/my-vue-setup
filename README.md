@@ -5,6 +5,7 @@
     - PurgeCSS for removing unused CSS.
 
 - Sass as a pre-processor for html and css.
+- Normalize.css
 - Vite as a bundler tool.
 
 # Installation
